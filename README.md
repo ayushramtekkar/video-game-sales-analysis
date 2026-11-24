@@ -2,7 +2,7 @@
 
 A business-focused data analysis of 16,598 video game titles (1980 to 2020), answering market questions for a fictional consultancy, GameVision Analytics, that advises publishers, investors and platform holders.
 
-**[View the full notebook with all outputs](https://GH_USER.github.io/video-game-sales-analysis/)**
+**[View the full notebook with all outputs](https://ayushramtekkar.github.io/video-game-sales-analysis/)**
 
 ## Business questions
 
@@ -28,4 +28,4 @@ Python, pandas, Matplotlib
 ## Notes
 
 Dataset: [Video Game Sales on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) (Smith, 2016). Not included in this repo.
-Completed as an individual project for M504 AI and Applications, MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
+Completed as part of the MSc Data Science, AI and Digital Business, Gisma University of Applied Sciences.
